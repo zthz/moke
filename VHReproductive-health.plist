@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://123.57.9.78:8080/mokeapp/appicon58-1.png</string>
+                   <string>http://123.57.9.78:8080/mokeapp/images/appicon80-1.png</string>
                </dict>
 	       <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://123.57.9.78:8080/mokeapp/appicon58-1.png</string>
+                   <string>http://123.57.9.78:8080/mokeapp/images/appicon80-1.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
