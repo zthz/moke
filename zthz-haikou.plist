@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://123.57.9.78:8181/haikouios/dl/haikou20150131.ipa</string>
+                   <string>http://183.56.132.20:8686/haikouios/dl/haikou_latest.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://123.57.9.78:8181/haikouios/image/ios_icon_haikou.png</string>
+                   <string>http://183.56.132.20:8686/haikouios/image/ios_icon_haikou.png</string>
                </dict>
 	       <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://123.57.9.78:8181/haikouios/image/ios_icon_haikou.png</string>
+                   <string>http://183.56.132.20:8686/haikouios/image/ios_icon_haikou.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
