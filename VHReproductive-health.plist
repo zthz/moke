@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://123.57.9.78:8181/mokeapp/ShanDaShengZhi_1.0.ipa</string>
+                   <string>http://123.57.9.78:8181/mokeapp/sdsz.latest.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://123.57.9.78:8181/mokeapp/images/appicon80-1.png</string>
+                   <string>http://123.57.9.78:8181/mokeapp/images/sdsz.png</string>
                </dict>
 	       <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://123.57.9.78:8181/mokeapp/images/appicon80-1.png</string>
+                   <string>http://123.57.9.78:8181/mokeapp/images/sdsz.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
@@ -38,9 +38,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>山大医院</string>
+               <string>山大生殖</string>
                <key>title</key>
-               <string>山大医院</string>
+               <string>山大生殖</string>
            </dict>
        </dict>
    </array>
