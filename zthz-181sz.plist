@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://123.57.9.78:8181/mokeapp/szwj.latest.ipa</string>
+                   <string>http://123.57.9.78:8181/mokeapp/181sz.latest.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://123.57.9.78:8181/mokeapp/images/szwj.png</string>
+                   <string>http://123.57.9.78:8181/mokeapp/images/181sz.png</string>
                </dict>
 	       <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://123.57.9.78:8181/mokeapp/images/szwj.png</string>
+                   <string>http://123.57.9.78:8181/mokeapp/images/181sz.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>vichigher.reproductive.health.shenzhenwujing</string>
+               <string>vichigher.reproductive.health.yibayishengzhi</string>
                <key>bundle-version</key>
                <string>1.0.5</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>深圳武警</string>
+               <string>181生殖中心</string>
                <key>title</key>
-               <string>深圳武警</string>
+               <string>181生殖中心</string>
            </dict>
        </dict>
    </array>
